@@ -11,7 +11,6 @@ const Footer = () => {
 			<Typography.Title
 				level={5}
 				style={{ color: "white", textAlign: "center" }}>
-				{/*<Link className={"text-green-500"} to='/'>*/}
 				Cryptoview <br />
 				<a
 					className={"text-white"}

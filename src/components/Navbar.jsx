@@ -95,9 +95,6 @@ const Navbar = () => {
 							<Link className={"text-white"} to="/news">
 								News
 							</Link>,
-							<Link className={"text-white"} to="/Wallets">
-								Wallets
-							</Link>,
 						].map((item, index) => (
 							<NavbarItem
 								key={item + index}
