@@ -14,7 +14,7 @@ const Footer = () => {
 				Cryptoview <br />
 				<a
 					className={"text-white"}
-					href="https://github.com/shraykumar/cryptoview">
+					href="https://github.com/shraykumar100/cryptoview">
 					<i className="social-icons ri-github-fill"></i>
 				</a>
 				<br />
