@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cryptoview/static/css/main.3290a599.css",
+    "main.js": "/cryptoview/static/js/main.a168bfc0.js",
+    "static/media/logo.png": "/cryptoview/static/media/logo.93ac583499f3058a86b3.png",
+    "index.html": "/cryptoview/index.html",
+    "main.3290a599.css.map": "/cryptoview/static/css/main.3290a599.css.map",
+    "main.a168bfc0.js.map": "/cryptoview/static/js/main.a168bfc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3290a599.css",
+    "static/js/main.a168bfc0.js"
+  ]
+}
